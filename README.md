@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="https://i.imgur.com/5xcumNd.jpeg" alt="img" width="80" height="80"/>
+src="https://i.imgur.com/ohv46Nn.jpeg" alt="img" width="80" height="80"/>
 </p>
         <img 
 src="https://tenor.com/view/anime-boy-hello-gif-22450362.gif" alt="GIF" width="190" height="190"/>
