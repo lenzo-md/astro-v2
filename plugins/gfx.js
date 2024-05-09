@@ -1,7 +1,7 @@
 const { command, isPrivate } = require("../lib/");
 const R = "*_Example: gfx1 Astro-XD|its's me|Ser_*";
 const base = "https://upper-romy-inrl-bot.koyeb.app/api/gfx/";
-let api = "astroh007";
+let api = "astro404";
 const { CAPTION } = require("../config");
 const X = require("../config");
 
@@ -177,4 +177,4 @@ let dd = `${base}gfx12?text=${t1}&text2=${t2}&text3=${t3}&apikey=${api}`
 await message.sendFromUrl(dd, {caption: (X.CAPTION), quoted:message});
 });
 
-// credits to inr-l and Zeta-XD
+// credits to lenzo-xd and astroh
