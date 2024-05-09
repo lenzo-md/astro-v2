@@ -23,7 +23,7 @@ Xasena
 <a href='https://github.com/rikkubot/Izumi-V2/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
 
-### QR 1
+### QR PAIR CODE
 .
     <br>
 <a href='https://astro-xd.onrender.com/pair/' target="_blank"><img alt='SCAN QR ' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
