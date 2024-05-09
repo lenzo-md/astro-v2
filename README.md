@@ -59,7 +59,7 @@ Xasena
 ***
 * EXTERNAL-PLUGINS
      <br>
-<a href='https://github.com/rikkubot/IZUMI-EXPLUGINS' target="_blank"><img alt='Izumi-xd' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/rikkubot/astrov2-EXPLUGINS' target="_blank"><img alt='Izumi-xd' src='https://img.shields.io/badge/EXPLUGIN-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 
 #### THANKS TO
-- [ Louis-XD❤️](https://github.com/Louis-XD) <br>
+- [ Lenzo-XD❤️](https://github.com/Lenzo-XD) <br>
