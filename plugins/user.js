@@ -268,14 +268,14 @@ menu += `\n\n𝗔𝗦𝗧𝗥𝗢-𝗫𝗗`;
       let penu = tiny(menu)
       let img = config.BOT_INFO.split(';')[2]
       return await message.sendFromUrl(img, {fileLength: "5555544444", gifPlayback: true, contextInfo: { externalAdReply: {
-title: "𝛬𝑆𝛵𝑅𝛰-𝜲𝐷🤬",
-body: "𝐄ᴅᴀ 𝐌ᴏᴡɴᴇ 𝐍ɪɪ 𝐇ᴀᴘᴘʏ 𝐀ʟʟᴇ💀💸",
-sourceUrl: "",
+title: "𝗔𝗦𝗧𝗥𝗢-𝗫𝗗",
+body: "",
+sourceUrl: "https://github.com/rikkubot/astro-v2",
 mediaUrl: "",
 mediaType: 1,
 showAdAttribution: true,
 renderLargerThumbnail: false,
-thumbnailUrl: "https://i.imgur.com/PGm50t6.jpeg" }}, caption: (penu)}, {quoted: message })
+thumbnailUrl: "https://i.imgur.com/JhfX9N2.jpeg" }}, caption: (penu)}, {quoted: message })
     }
 }catch(e){
 message.reply(e)
