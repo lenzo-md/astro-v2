@@ -11,7 +11,7 @@ Xasena
 
 1. Fork This Repository
    <br>
-<a href='https://github.com/rikkubot/astro-v2/fork'' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/rikkubot/astro-v2/fork' target="_blank"><img alt='FORK' src='https://img.shields.io/badge/fork-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black&color=black'/></a>
 2. Get Session I'D.
     <br>
 <a href='https://astro-xd.onrender.com/'' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/get_session-100000?style=for-the-badge&logo=codeium&logoColor=white&labelColor=black&color=black'/></a>
