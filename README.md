@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/6Ty8MPT.jpeg'/></a>
+<a><img src='https://i.imgur.com/yeHjjvc.jpeg'/></a>
 ## Astro-XD Whatsapp Bot
 Astro-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
@@ -33,7 +33,7 @@ Xasena
 ***
 * Join Group For Help
      <br>
-<a href="https://chat.whatsapp.com/KHvcGD7aEUo8gPocJsYXZe"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
+<a href="https://chat.whatsapp.com/BUxCJKvO1j2FWkFIOoiCod"><img alt="WhatsApp" src="https://img.shields.io/badge/-Whatsapp%20Group-black?style=for-the-badge&logo=whatsapp&logoColor=green"/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
