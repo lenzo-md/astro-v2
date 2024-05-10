@@ -1,7 +1,7 @@
-src="https://tenor.com/view/kisu-dance-anime-vrchat-wolvengarde-gif-23265137.gif" alt="GIF" width="190" height="190"/>
+<a><img src="https://tenor.com/view/kisu-dance-anime-vrchat-wolvengarde-gif-23265137.gif" alt="GIF" width="190" height="190"/>
 </p>
         <img 
-src="https://tenor.com/view/kisu-dance-anime-vrchat-wolvengarde-gif-23265137.gif" alt="GIF" width="190" height="190"/>
+
 </p>
 
 </div>
