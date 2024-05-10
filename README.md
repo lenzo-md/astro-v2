@@ -1,4 +1,4 @@
-<a><img src='https://i.imgur.com/yeHjjvc.jpeg'/></a>
+<a><img src='https://i.imgur.com/JhfX9N2.jpeg'/></a>
 ## Astro-XD Whatsapp Bot
 Astro-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
