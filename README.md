@@ -12,7 +12,7 @@ src="https://tenor.com/view/kisu-dance-anime-vrchat-wolvengarde-gif-23265137.gif
 ASTRO-XD - Simple whatsapp Multi Device bot based on 
 Xasena 
 
-``` Full Open Source```
+``` Made With 🥵 ```
 
 ***
 
