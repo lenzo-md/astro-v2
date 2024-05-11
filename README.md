@@ -48,7 +48,7 @@ Xasena
 <br>
 
 
-* [`External PLUGINS`](https://github.com/rikkubot/astrov2-Plugins/blob/main/README.md)
+* [`External PLUGINS`]()
 
 ### Thanks To
 
